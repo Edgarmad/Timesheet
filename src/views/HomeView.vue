@@ -22,9 +22,6 @@ import LayoutAuthenticated from '@/layouts/LayoutAuthenticated.vue'
 import SectionTitleLineWithButton from '@/components/SectionTitleLineWithButton.vue'
 
 const chartData = ref(null)
-const darkModeStore = useDarkModeStore()
-
-darkModeStore.set(true)
 const fillChartData = () => {
   chartData.value = chartConfig.sampleChartData()
 }
