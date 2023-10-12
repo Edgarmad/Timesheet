@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "login": "percy64",
+      "name": "Fix the typo of the footer in the site of global",
+      "hours": "0.25",
+      "status": "In Work",
+      "progress": 70,
+      "created": "Mar 3, 2023",
+      "created_mm_dd_yyyy": "03-03-2023"
+    },
+    {
+      "id": 2,
+      "login": "dare.concepcion",
+      "name": "Make a server to development testings",
+      "hours": "16",
+      "status": "Pending",
+      "progress": 68,
+      "created": "Dec 1, 2023",
+      "created_mm_dd_yyyy": "12-01-2023"
+    },
+    {
+      "id": 3,
+      "login": "geovanni.kessler",
+      "name": "Fix the bug on the harvard site",
+      "hours": "8",
+      "status": "Finished",
+      "progress": 100,
+      "created": "May 18, 2023",
+      "created_mm_dd_yyyy": "05-18-2023"
+    },
+    {
+      "id": 4,
+      "login": "macejkovic.dashawn",
+      "name": "Update the homepage design",
+      "hours": "12.5",
+      "status": "In Review",
+      "progress": 90,
+      "created": "Jun 7, 2023",
+      "created_mm_dd_yyyy": "06-07-2023"
+    },
+    {
+      "id": 5,
+      "login": "hilpert.leora",
+      "name": "Implement new payment gateway",
+      "hours": "24",
+      "status": "In Progress",
+      "progress": 50,
+      "created": "Sep 15, 2023",
+      "created_mm_dd_yyyy": "09-15-2023"
+    },
+    {
+      "id": 6,
+      "login": "ferry.sophia",
+      "name": "Optimize database performance",
+      "hours": "10.5",
+      "status": "Completed",
+      "progress": 100,
+      "created": "Jan 10, 2023",
+      "created_mm_dd_yyyy": "01-10-2023"
+    },
+    {
+      "id": 7,
+      "login": "gokuneva",
+      "name": "Redesign user profiles",
+      "hours": "15",
+      "status": "In Progress",
+      "progress": 60,
+      "created": "Aug 28, 2023",
+      "created_mm_dd_yyyy": "08-28-2023"
+    },
+    {
+      "id": 8,
+      "login": "paolo.walter",
+      "name": "Create a mobile app version",
+      "hours": "20",
+      "status": "Pending",
+      "progress": 30,
+      "created": "Apr 5, 2023",
+      "created_mm_dd_yyyy": "04-05-2023"
+    },
+    {
+      "id": 9,
+      "login": "lkessler",
+      "name": "Fix security vulnerabilities",
+      "hours": "8.5",
+      "status": "In Review",
+      "progress": 85,
+      "created": "Jul 11, 2023",
+      "created_mm_dd_yyyy": "07-11-2023"
+    },
+    {
+      "id": 10,
+      "login": "jewel07",
+      "name": "Add social media integration",
+      "hours": "6",
+      "status": "Completed",
+      "progress": 100,
+      "created": "Mar 20, 2023",
+      "created_mm_dd_yyyy": "03-20-2023"
+    },
+    {
+      "id": 11,
+      "login": "oconnell.juanita",
+      "name": "Optimize website performance",
+      "hours": "11",
+      "status": "In Progress",
+      "progress": 45,
+      "created": "Nov 19, 2023",
+      "created_mm_dd_yyyy": "11-19-2023"
+    },
+    {
+      "id": 12,
+      "login": "vgutmann",
+      "name": "Migrate to a new server",
+      "hours": "22.5",
+      "status": "Pending",
+      "progress": 20,
+      "created": "Feb 12, 2023",
+      "created_mm_dd_yyyy": "02-12-2023"
+    },
+    {
+      "id": 13,
+      "login": "veum.lucio",
+      "name": "Improve user registration process",
+      "hours": "7",
+      "status": "In Progress",
+      "progress": 55,
+      "created": "Oct 8, 2023",
+      "created_mm_dd_yyyy": "10-08-2023"
+    },
+    {
+      "id": 14,
+      "login": "edietrich",
+      "name": "Enhance search functionality",
+      "hours": "9.5",
+      "status": "Completed",
+      "progress": 100,
+      "created": "Apr 30, 2023",
+      "created_mm_dd_yyyy": "04-30-2023"
+    },
+    {
+      "id": 15,
+      "login": "mose44",
+      "name": "Create a support chatbot",
+      "hours": "18",
+      "status": "In Review",
+      "progress": 75,
+      "created": "Sep 4, 2023",
+      "created_mm_dd_yyyy": "09-04-2023"
+    },
+    {
+      "id": 16,
+      "login": "rau.abelardo",
+      "name": "Redesign the blog page",
+      "hours": "13",
+      "status": "Pending",
+      "progress": 25,
+      "created": "Dec 16, 2023",
+      "created_mm_dd_yyyy": "12-16-2023"
+    },
+    {
+      "id": 17,
+      "login": "imurazik",
+      "name": "Implement e-commerce features",
+      "hours": "14",
+      "status": "In Progress",
+      "progress": 50,
+      "created": "May 3, 2023",
+      "created_mm_dd_yyyy": "05-03-2023"
+    },
+    {
+      "id": 18,
+      "login": "annalise97",
+      "name": "Fix broken links on the site",
+      "hours": "5",
+      "status": "Completed",
+      "progress": 100,
+      "created": "Jan 24, 2023",
+      "created_mm_dd_yyyy": "01-24-2023"
+    }
+  ]
+}
